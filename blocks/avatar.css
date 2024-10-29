@@ -1,0 +1,43 @@
+.avatar{
+background-color: #f1ee07;
+grid-column: 1/2;
+grid-row: 1/6;
+display: flex;
+flex-direction: column;
+align-items: center;
+gap:20px
+}
+.avatar__img{background-color:
+  #0b055c;
+  height: 300px;
+  width: 300px;
+  }
+
+
+
+.avatar__info{background-color:#f30172;
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  height: 300px;
+  width: 300px;}
+
+  .avatar__description{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+  }
+  .avatar__name{
+    background-color: #61c50f;
+  }
+
+  .avatar__intro{background-color: #fff;
+
+  }
+  .avatar__social{
+    background-color: #000;
+
+  }
