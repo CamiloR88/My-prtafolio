@@ -1,8 +1,0 @@
-.main{
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    grid-template-rows: repeat(5, 1fr);
-    margin: auto;
-    max-width: 1140px;
-    background-color: cadetblue;
-}
